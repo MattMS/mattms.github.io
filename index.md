@@ -10,6 +10,21 @@ If you are curious about other aspects of myself, you may prefer to read
 [my about page](http://about.mattms.info/).
 
 
+## Command-line tools
+
+### Jader
+
+[Jader](https://github.com/MattMS/jader#jader---jade-server) is a
+Node.js web server that serves compiled Jade templates that may include
+CoffeeScript, Markdown or Stylus code.
+
+
+### Shelp
+
+[Shelp](https://github.com/MattMS/shelp#shell-help) is a Node.js app for
+printing examples of Linux commands.
+
+
 ## Configurations
 
 Discover how I bend various pieces of software to my will.
