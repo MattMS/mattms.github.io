@@ -59,3 +59,27 @@ will probably change the most frequently compared to my other configurations on
 here.
 This is because I use it daily and I'm always seeking more efficent ways to do
 things.
+
+
+## Examples
+
+I have created repositories for common bits of code I have needed at
+various times.
+
+- [ColdFusion](https://github.com/MattMS/ColdFusion_examples)
+
+- [Python 3](https://github.com/MattMS/Python_3_examples)
+
+
+## Sites
+
+### About me
+
+[My about page](http://about.mattms.info/) aims to be my replacement to
+the standard resume.
+
+
+### Thoughts
+
+[My thoughts](http://thoughts.mattms.info/) contains various topics of
+interest that I am trying to resolve.
