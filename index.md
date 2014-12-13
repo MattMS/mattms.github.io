@@ -79,6 +79,12 @@ various times.
 the standard resume.
 
 
+### CSS
+
+[My CSS repo](http://css.mattms.info/) contains the CSS used to style
+each of my sites.
+
+
 ### Thoughts
 
 [My thoughts](http://thoughts.mattms.info/) contains various topics of
