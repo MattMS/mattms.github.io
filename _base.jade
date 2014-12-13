@@ -6,9 +6,14 @@ html(lang="en")
 		meta(content="Matt McKellar-Spence", name="author")
 		meta(content="GitHub page of Matt McKellar-Spence", name="description")
 		meta(content="width=device-width, initial-scale=1", name="viewport")
-		title MattMS GitHub
-		link(href="//css.mattms.info/main.css", rel="stylesheet")
+		title MattMS on GitHub
+		link(href="http://css.mattms.info/light.css", rel="stylesheet")
 	body
 		.container
 			block content
 				= content
+		footer.container
+			hr
+			ul
+				li: a(href="http://about.mattms.info") Read about me
+				li: a(href="https://github.com/MattMS/mattms.github.io") View on GitHub
