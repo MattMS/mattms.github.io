@@ -12,6 +12,12 @@ If you are curious about other aspects of myself, you may prefer to read
 
 ## Command-line tools
 
+### Deg
+
+[Deg](https://github.com/MattMS/deg#degrees-conversions) is a Node.js
+app for converting between decimal degrees and degrees-minutes-seconds.
+
+
 ### Jader
 
 [Jader](https://github.com/MattMS/jader#jader---jade-server) is a
