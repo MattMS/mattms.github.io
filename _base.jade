@@ -7,7 +7,9 @@ html(lang="en")
 		meta(content="GitHub page of Matt McKellar-Spence", name="description")
 		meta(content="width=device-width, initial-scale=1", name="viewport")
 		title MattMS on GitHub
-		link(href="http://css.mattms.info/basic/light/main.css", rel="stylesheet")
+
+		block css
+			include ./_css.jade
 	body
 		.container
 			block content
