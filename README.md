@@ -77,9 +77,14 @@ contains a bunch of shortcuts and extensions I like to use.
 I have created repositories for common bits of code I have needed at
 various times.
 
-- [Coffee gulp bro](https://github.com/MattMS/coffee_gulp_bro)
+- [CoffeeScript/Gulp/Browserify](https://github.com/MattMS/coffee_gulp_bro)
+  all in one tasty little package.
+  [Some](https://github.com/joshgillies) have claimed that Gulp many not
+  even be necessary!
+  Maybe CoBro is a better name.
 
-- [ColdFusion](https://github.com/MattMS/ColdFusion_examples)
+- [ColdFusion snippets](https://github.com/MattMS/ColdFusion_examples)
+  for rapid pain relief.
 
 - [Python 3](https://github.com/MattMS/Python_3_examples)
 
