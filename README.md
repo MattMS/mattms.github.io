@@ -12,6 +12,15 @@ If you are curious about other aspects of myself, you may prefer to read
 
 ## Command-line tools
 
+### Chuckme
+
+[Chuck me](https://github.com/MattMS/chuckme) is the tool that no web
+professional should be without.
+
+Some people may have thought that it could be the single greatest tool
+that all humankind has ever known.
+
+
 ### Deg
 
 [Deg](https://github.com/MattMS/deg#degrees-conversions) is a Node.js
@@ -68,9 +77,13 @@ contains a bunch of shortcuts and extensions I like to use.
 I have created repositories for common bits of code I have needed at
 various times.
 
+- [Coffee gulp bro](https://github.com/MattMS/coffee_gulp_bro)
+
 - [ColdFusion](https://github.com/MattMS/ColdFusion_examples)
 
 - [Python 3](https://github.com/MattMS/Python_3_examples)
+
+- [Web tricks](https://github.com/MattMS/web_tricks)
 
 
 ## Sites
@@ -91,3 +104,4 @@ each of my sites.
 
 [My thoughts](http://thoughts.mattms.info/) contains various topics of
 interest that I am trying to resolve.
+Consider it as my alternative to a blog.
