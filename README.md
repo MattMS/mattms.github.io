@@ -1,12 +1,11 @@
 # Hello world!
 
-Weary traveller of the Internet, you have arrived at a safe place.
-This is GitHub site of MattMS!
+Weary traveller of the Internet, you have arrived at a safe place!
 
-This gives an overview of my projects on GitHub,
+Casually browse a selection of my projects on GitHub,
 [including this site](https://github.com/MattMS/mattms.github.io).
 
-If you are curious about other aspects of myself, you may prefer to read
+If you are curious about other aspects of myself, you may prefer
 [my about page](http://about.mattms.info/).
 
 
@@ -36,18 +35,18 @@ serves compiled Jade templates with support for CoffeeScript and Stylus.
 ### Shelp
 
 [Shelp](https://github.com/MattMS/shelp#shell-help) is a Node.js app for
-printing examples of Linux commands.
+viewing examples of Linux commands.
 
 
 ## Configurations
 
-Discover how I bend various pieces of software to my will.
+Be amazed at how I bend various pieces of software to my will.
 
 
 ### Fish
 
 I'm not a big fan of the command line, but
-[Fish shell](http://fishshell.com/) is the nicest I've used so far.
+[Fish shell](http://fishshell.com/) is the pretty neat.
 
 [My Fish configuration](https://github.com/MattMS/my-fish-config)
 is pretty basic, which I'll credit to Fish being great to begin with.
@@ -59,14 +58,14 @@ I like a simple OS, and [Lubuntu](http://lubuntu.net/) is currently what
 I have settled on.
 
 [My Lubuntu configuration](https://github.com/MattMS/my-lubuntu-config)
-mostly just contains keyboard shortcuts that I settled on over time.
-I also reformatted a few of the comments to make it easier to read.
+mostly just contains some keyboard shortcuts.
+I also reformatted a few of the comments to make it easier to read the
+config.
 
 
 ### Vim
 
-[Vim](http://www.vim.org/) is the last editor I switched to and never
-looked back.
+[Vim](http://www.vim.org/) is hard to learn and harder to leave.
 
 [My Vim configuration](https://github.com/MattMS/my-vim-config)
 contains a bunch of shortcuts and extensions I like to use.
