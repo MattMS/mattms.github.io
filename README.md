@@ -1,8 +1,8 @@
 # Hello world!
 
-Weary traveller of the Internet, you have arrived at a safe place!
+Weary traveller of the Internet, you have arrived at a safe place.
 
-Casually browse a selection of my projects on GitHub,
+You may casually browse a selection of my projects on GitHub,
 [including this site](https://github.com/MattMS/mattms.github.io).
 
 If you are curious about other aspects of myself, you may prefer
@@ -11,36 +11,42 @@ If you are curious about other aspects of myself, you may prefer
 
 ## Command-line tools
 
-### Chuckme
+These are mostly [Node.js](https://nodejs.org/) apps that I have created
+for my own needs.
+Maybe you have similar needs?
 
-[Chuck me](https://github.com/MattMS/chuckme) is the tool that no web
+
+### Chuck me
+
+[Chuck me](https://github.com/MattMS/chuckme) is the tool that no
 professional should be without.
 
 Some people may have thought that it could be the single greatest tool
-that all humankind has ever known.
+that humankind has ever known.
 
 
 ### Deg
 
-[Deg](https://github.com/MattMS/deg#degrees-conversions) is a Node.js
-app for converting between decimal degrees and degrees-minutes-seconds.
+[Deg](https://github.com/MattMS/deg) does conversions between decimal
+degrees and degrees-minutes-seconds.
 
 
 ### Jader
 
 [Jader](https://mattms.github.io/jader) is a basic web server that
-serves compiled Jade templates with support for CoffeeScript and Stylus.
+serves compiled Jade templates that may include CoffeeScript, Markdown
+and Stylus.
 
 
 ### Shelp
 
-[Shelp](https://github.com/MattMS/shelp#shell-help) is a Node.js app for
-viewing examples of Linux commands.
+[Shelp](https://github.com/MattMS/shelp#shell-help) gives examples of
+how to use various Linux commands.
 
 
 ## Configurations
 
-Be amazed at how I bend various pieces of software to my will.
+Be amazed at how I bend various pieces of software to my will!
 
 
 ### Fish
@@ -54,13 +60,13 @@ is pretty basic, which I'll credit to Fish being great to begin with.
 
 ### Lubuntu
 
-I like a simple OS, and [Lubuntu](http://lubuntu.net/) is currently what
-I have settled on.
+I like a simple OS, and [Lubuntu](http://lubuntu.net/) definitely
+qualifies.
 
 [My Lubuntu configuration](https://github.com/MattMS/my-lubuntu-config)
 mostly just contains some keyboard shortcuts.
-I also reformatted a few of the comments to make it easier to read the
-config.
+I also reformatted a few of the comments to make it easier to understand
+the options.
 
 
 ### Vim
@@ -80,14 +86,29 @@ various times.
   all in one tasty little package.
   [Some](https://github.com/joshgillies) have claimed that Gulp many not
   even be necessary!
-  Maybe CoBro is a better name.
+  Maybe CoBro is a better name?
 
 - [ColdFusion snippets](https://github.com/MattMS/ColdFusion_examples)
   for rapid pain relief.
 
-- [Python 3](https://github.com/MattMS/Python_3_examples)
+- [Python 3](https://github.com/MattMS/Python_3_examples) lets you write
+  beautiful code.
 
-- [Web tricks](https://github.com/MattMS/web_tricks)
+- [Web tricks](https://github.com/MattMS/web_tricks) to impress your
+  friends!
+
+
+## Learning
+
+As I learn new things, I like to keep notes.
+My thought is that leaving them in a public place will make them easier
+to find later.
+
+It also lets you know if I know what you think I know.
+
+- [CouchDB](https://github.com/MattMS/learn_CouchDB)
+
+- [Elasticsearch](https://github.com/MattMS/learn_Elasticsearch)
 
 
 ## Sites
