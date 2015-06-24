@@ -21,9 +21,7 @@
   },
   "homepage": "http://mattms.github.io",
   "devDependencies": {
-    "coffee-script": "^1.9.1",
     "jade": "^1.9.2",
-    "marked": "^0.3.2",
-    "stylus": "^0.50.0"
+    "marked": "^0.3.2"
   }
 }
