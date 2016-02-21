@@ -88,10 +88,10 @@ various times.
   even be necessary!
   Maybe CoBro is a better name?
 
-- [ColdFusion snippets](https://github.com/MattMS/ColdFusion_examples)
+- [ColdFusion snippets](https://github.com/MattMS/ColdFusion_notes)
   for rapid pain relief.
 
-- [Python 3](https://github.com/MattMS/Python_3_examples) lets you write
+- [Python 3](https://github.com/MattMS/Python_3_notes) lets you write
   beautiful code.
 
 - [Web tricks](https://github.com/MattMS/web_tricks) to impress your
@@ -106,9 +106,9 @@ to find later.
 
 It also lets you know if I know what you think I know.
 
-- [CouchDB](https://github.com/MattMS/learn_CouchDB)
+- [CouchDB](https://github.com/MattMS/CouchDB_notes)
 
-- [Elasticsearch](https://github.com/MattMS/learn_Elasticsearch)
+- [Elasticsearch](https://github.com/MattMS/Elasticsearch_notes)
 
 
 ## Sites
