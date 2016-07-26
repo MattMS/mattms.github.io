@@ -48,7 +48,7 @@
 				h 'title', 'MattMS on GitHub'
 
 				h 'link',
-					href: 'http://css.mattms.info/basic/light/index.css?t=2014-12-21T1300+10'
+					href: '/style.css'
 					rel: 'stylesheet'
 					title: 'Basic light'
 					type: 'text/css'
